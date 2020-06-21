@@ -1,1 +1,1 @@
-# koreatech
+# KoreaTech
